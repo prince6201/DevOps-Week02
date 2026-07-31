@@ -59,3 +59,22 @@ GitHub: [@prince6201](https://github.com/prince6201)
 
 ## 📄 License
 This project is for educational purposes as part of a DevOps learning path.
+
+
+## Project Overview
+Ye repository DevOps Week 02 hands-on activity ke liye banaya gaya hai, jisme Git aur GitHub ka use karke source code management, branching, aur collaboration workflow practice kiya gaya hai.
+
+## Project Structure
+- `index.html` - Main HTML file with navbar
+- `style.css` - Styling for the project
+- `app.js` - JavaScript logic
+- `config.yml` - Configuration file
+- `notes.txt` - Project notes
+
+## Workflow Followed
+1. Repository create ki gayi aur initial files add ki gayi
+2. Do feature branches banaye gaye: `feature/navbar` aur `feature/styling`
+3. Dono branches me alag-alag changes kiye gaye
+4. Pull Requests ke through dono branches ko `main` me merge kiya gaya
+5. Ek merge conflict aaya jo manually resolve kiya gaya
+6. Final code GitHub pe push kiya gaya
